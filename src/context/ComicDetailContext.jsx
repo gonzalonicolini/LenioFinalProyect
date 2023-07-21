@@ -1,5 +1,5 @@
 import { createContext } from 'react';
-import useComicDetail from '../hooks/useComicDetail';
+import useComicDetail from '../hooks/useComicsDetails';
 
 export const ComicDetailContext = createContext();
 
