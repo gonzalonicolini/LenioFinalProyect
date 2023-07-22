@@ -19,3 +19,7 @@ A landing page to meet and study all the heroes of the Marvel universe.
 ![screen2] (https://user-images.githubusercontent.com/107639263/255324209-79079be4-55ea-44c3-8d03-6bdcd3c14556.png)
 
 ![screen3] (https://user-images.githubusercontent.com/107639263/255324214-c47d9bcf-060d-4c34-82e9-a1525514ce91.png)
+
+# to do
+
+deploying
