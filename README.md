@@ -14,4 +14,4 @@ A landing page to meet and study all the heroes of the Marvel universe.
 4. run the app => npm run dev
 
 # Screenshots
-// hacerlo desde issue en github
+![1] (https://github.com/gonzalonicolini/LenioFinalProyect/issues/1#issue-1816710889)
